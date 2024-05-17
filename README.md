@@ -1,6 +1,15 @@
 ###
 
 <div align="center">
+  
+  ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s](https://github.com/stevemorgeat/stevemorgeat/assets/30505548/d019c45f-db11-4900-b3d7-9e782134de71)
+
+</div>
+
+
+###
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=stevemorgeat.stevemorgeat&"  />
 </div>
 
@@ -14,7 +23,15 @@
 
 ###
 
-<h5 align="left">I'm developer from Paris/France<br><br>- 🔭 My background is a bit atypical. I've been retraining since 2017 and I've had a pretty lucky career: first experience in home automation (my favorite field), then I went to work in a social firm (which made me grow as a person), and then I went to a bigger firm in the French FT120 (to get to grips with a bigger organization).<br><br>Today, I still like to bring my touch to code, keep abreast of new developments (long live AI), but I also have a managerial profile to support devs in their careers and on a day-to-day basis.<br><br>I'm starting to update my github to make it my real playground, so stay tuned!<br><br>- 📚 I'm currently learning typescript and aws personal usage<br><br>- ⚡ In my free time I take time for my children</h5>
+I'm developer from Paris/France
+
+
+- 🔭 My background is a bit atypical. I've been retraining since 2017 and I've had a pretty lucky career: first experience in home automation (my favorite field), then I went to work in a social firm (which made me grow as a person), and then I went to a bigger firm in the French FT120 (to get to grips with a bigger organization).
+Today, I still like to bring my touch to code, keep abreast of new developments (long live AI), but I also have a managerial profile to support devs in their careers and on a day-to-day basis.
+I'm starting to update my github to make it my real playground, so stay tuned!
+- 📚 I'm currently learning typescript and aws personal usage
+- ⚡ In my free time I take time for my children
+
 
 ###
 
